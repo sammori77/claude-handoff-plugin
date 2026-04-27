@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "handoff",
-      "source": ".",
+      "source": "./",
       "description": "Write a session handoff doc to ~/continue where i left off.md so work can be resumed after a restart"
     }
   ]
