@@ -1,0 +1,8 @@
+{
+  "name": "handoff",
+  "description": "Write a session handoff doc to ~/continue where i left off.md so work can be resumed after a restart",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sam Shiro"
+  }
+}
