@@ -1,0 +1,3 @@
+# Toolkit continuity owns startup for this migrated project.
+[plugins."project-context-logger@personal"]
+enabled = false

@@ -1,0 +1,10 @@
+
+# AI session logs and local vector memory
+.ai/context-logger/
+
+# Skillshare per-machine skill links (regenerated on each computer)
+.skillshare/
+.claude/skills/
+.codex/skills/
+.agents/skills/
+.DS_Store

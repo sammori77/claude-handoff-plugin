@@ -1,5 +1,7 @@
 # handoff
 
+> **Legacy source retained:** the active handoff plugin was removed. Use current session skills and Context Logger; do not follow the installation instructions below for normal project continuation.
+
 A Claude Code plugin that writes a session handoff doc to `~/continue where i left off.md` so work can be resumed after a restart, in a new context, or by a Dispatch-spawned Desktop session.
 
 ## Install
